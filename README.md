@@ -24,4 +24,4 @@ The Service Provider may periodically update their Terms and Conditions. Therefo
 These terms and conditions are effective as of 2025-02-24
 
 Contact Us
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at fishermansassistant@gmail.com.
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at fishixapp@gmail.com.
