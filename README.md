@@ -1,4 +1,5 @@
-# Terms-Conditions
+# Terms-Conditions 
+Last updated: October 19, 2026
 
 These terms and conditions apply to the Fishix: Fishing Log App app (hereby referred to as "Application") for mobile devices that was created by Anton Patenko (hereby referred to as "Service Provider") as a Free service.
 
