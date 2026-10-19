@@ -6,6 +6,15 @@ Upon downloading or utilizing the Application, you are automatically agreeing to
 
 The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
 
+Subscriptions:
+Fishix offers auto-renewable subscriptions (weekly, monthly and yearly) and a one-time Lifetime purchase. Payment is charged to your Apple ID account at confirmation of purchase. Subscriptions renew automatically at the same price and duration unless cancelled at least 24 hours before the end of the current period. You can manage or cancel your subscription in your Apple ID account settings at any time.
+
+Free trials:
+Some subscriptions include a free trial. The trial length and the price charged after the trial are shown before you confirm your purchase. If you do not cancel at least 24 hours before the trial ends, your subscription will start and you will be charged automatically. Any unused portion of a free trial is forfeited when you purchase a subscription.
+
+Refund requests:
+Refunds are handled by Apple. By using our app and making in-app purchases, you consent to our sharing information about your usage and consumption of purchased content with Apple when resolving refund requests. This information may include how you accessed and interacted with the purchased content. We share this information only as needed to help Apple make an informed refund decision and in accordance with Apple's policies.
+
 The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
